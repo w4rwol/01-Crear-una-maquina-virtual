@@ -1,4 +1,4 @@
-# 01 - Crear una máquina virtual en el portal
+# 01 - Crear una máquina virtual en el portal Azure
 
 En este tutorial vamos a crear una máquina virtual en Azure Portal, para despues conectarnos a dicha máquina virtual. Despues instalaremos la función del servidor web y la probaremos.
 
