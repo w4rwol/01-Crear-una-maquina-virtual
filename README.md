@@ -44,5 +44,6 @@ Nota - (Comprobar que tanto el puerto 80 como el puerto 3389 están seleccionado
 7. Una vez que se supere la validación, haga clic en el botón *Crear*. La implementación de la máquina virtual puede demorar entre cinco y siete minutos.
 
 8. Recibirá actualizaciones en la página de implementación y a través del área Notificaciones (el icono de la campana en el menú superior).
+9. ![Alt text](./img/1.PNG)
 
 **Compruebe que los puertos 80 y 3389 están abiertos**
