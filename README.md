@@ -11,7 +11,7 @@ En esta tarea, crearemos una máquina virtual Windows Server 2019 Datacenter - G
 
 3. En la pestaña Datos básicos, complete la siguiente información (deje los valores predeterminados para todo lo demás):
 
-| Configuración | Valores |
+    | Configuración | Valores |
     |  -- | -- |
     | Suscripción | **Elija su suscripción**|
     | Grupo de recursos | **myRGVM** (crear nueva) |
@@ -26,7 +26,7 @@ En esta tarea, crearemos una máquina virtual Windows Server 2019 Datacenter - G
 
 4. Cambie a la pestaña Redes y busque Seleccionar puertos de entrada:
 
-   | Configuración | Valores |
+    | Configuración | Valores |
     | -- | -- |
     | Seleccionar puertos de entrada | **HTTP (80), RDP (3389)**|
     | | |
@@ -34,7 +34,7 @@ Nota - (Comprobar que tanto el puerto 80 como el puerto 3389 están seleccionado
 
 5. Vaya a la pestaña Administración y, en la sección Supervisión, seleccione la siguiente configuración:
 
- | Configuración | Valores |
+    | Configuración | Valores |
     | -- | -- |
     | Diagnóstico de arranque | **Deshabilitar**|
     | | |
