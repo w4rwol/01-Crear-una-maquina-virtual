@@ -45,6 +45,7 @@ En esta tarea, crearemos una máquina virtual Windows Server 2019 Datacenter - G
 7. Una vez que se supere la validación, haga clic en el botón *Crear*. La implementación de la máquina virtual puede demorar entre cinco y siete minutos.
 
 8. Recibirá actualizaciones en la página de implementación y a través del área *Notificaciones* (el icono de la campana en el menú superior).
-9. ![Alt text](./img/1.PNG)
 
-**Nota: Compruebe que los puertos 80 y 3389 están abiertos**
+![Alt text](./img/1.PNG)
+
+   **Nota: Compruebe que los puertos 80 y 3389 están abiertos**
