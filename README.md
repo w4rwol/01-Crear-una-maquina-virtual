@@ -7,9 +7,9 @@ En esta tarea, crearemos una máquina virtual Windows Server 2019 Datacenter - G
 
 1. Inicie sesión en [Azure Portal](https://portal.azure.com).
 
-2. Desde la hoja Todos los servicios, busque y seleccione Máquinas virtuales y luego haga clic en *+ Agregar* y seleccione *+ Maquinas virtuales*.
+2. Desde la hoja *Todos los servicios*, busque y seleccione *Máquinas virtuales* y luego haga clic en *+ Agregar* y seleccione *+ Maquinas virtuales*.
 
-3. En la pestaña Datos básicos, complete la siguiente información (deje los valores predeterminados para todo lo demás):
+3. En la pestaña *Datos básicos*, complete la siguiente información (deje los valores predeterminados para todo lo demás):
 
     | Configuración | Valores |
     |  -- | -- |
@@ -24,7 +24,7 @@ En esta tarea, crearemos una máquina virtual Windows Server 2019 Datacenter - G
     | Reglas del puerto de entrada: Permitir puertos seleccionados | **RDP (3389)** y **HTTP (80)**|
     | | |
 
-4. Cambie a la pestaña Redes y busque Seleccionar puertos de entrada:
+4. Cambie a la pestaña *Redes* y busque *Seleccionar puertos de entrada*:
 
     | Configuración | Valores |
     | -- | -- |
@@ -32,18 +32,18 @@ En esta tarea, crearemos una máquina virtual Windows Server 2019 Datacenter - G
     | | |
 Nota - (Comprobar que tanto el puerto 80 como el puerto 3389 están seleccionados).
 
-5. Vaya a la pestaña Administración y, en la sección Supervisión, seleccione la siguiente configuración:
+5. Vaya a la pestaña *Administración* y, en la sección *Supervisión*, seleccione la siguiente configuración:
 
     | Configuración | Valores |
     | -- | -- |
     | Diagnóstico de arranque | **Deshabilitar**|
     | | |
 
-6. Deje los valores predeterminados restantes y luego haga clic en el botón *Revisar* y *crear*, en la parte inferior de la página.
+6. Deje los valores predeterminados restantes y luego haga clic en el botón *Revisar* y *Crear*, en la parte inferior de la página.
 
 7. Una vez que se supere la validación, haga clic en el botón *Crear*. La implementación de la máquina virtual puede demorar entre cinco y siete minutos.
 
-8. Recibirá actualizaciones en la página de implementación y a través del área Notificaciones (el icono de la campana en el menú superior).
+8. Recibirá actualizaciones en la página de implementación y a través del área *Notificaciones* (el icono de la campana en el menú superior).
 9. ![Alt text](./img/1.PNG)
 
-**Compruebe que los puertos 80 y 3389 están abiertos**
+    ** Nota: Compruebe que los puertos 80 y 3389 están abiertos**
