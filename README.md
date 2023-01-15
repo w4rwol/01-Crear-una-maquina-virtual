@@ -30,7 +30,8 @@ En esta tarea, crearemos una máquina virtual Windows Server 2019 Datacenter - G
     | -- | -- |
     | Seleccionar puertos de entrada | **HTTP (80), RDP (3389)**|
     | | |
-Nota - (Comprobar que tanto el puerto 80 como el puerto 3389 están seleccionados).
+
+**Nota:** Comprobar que tanto el puerto 80 como el puerto 3389 están seleccionados.
 
 5. Vaya a la pestaña *Administración* y, en la sección *Supervisión*, seleccione la siguiente configuración:
 
@@ -46,4 +47,4 @@ Nota - (Comprobar que tanto el puerto 80 como el puerto 3389 están seleccionado
 8. Recibirá actualizaciones en la página de implementación y a través del área *Notificaciones* (el icono de la campana en el menú superior).
 9. ![Alt text](./img/1.PNG)
 
-    ** Nota: Compruebe que los puertos 80 y 3389 están abiertos**
+** Nota: Compruebe que los puertos 80 y 3389 están abiertos**
